@@ -1,0 +1,3683 @@
+!SESSION 2021-07-27 12:19:56.770 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-27 12:21:25.785
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-27 12:21:25.785
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2431050d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@441016d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-27 12:21:38.383
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-27 12:26:02.596
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:03.898
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:05.634
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:06.979
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:07.601
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:07.765
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:08.731
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:09.078
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:26:09.507
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:27:17.376
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 12:27:17.750
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-27 12:28:22.613
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-27 13:36:33.584
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:33.634
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:33.636
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6aa6cc26[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:33.643
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:33.704
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.356
+!MESSAGE Boot LS startup time from start to initialized: 5701ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.486
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ygvKkCqtisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.490
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.494
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.496
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.497
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.499
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ygvKkCqt => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.518
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.537
+!MESSAGE buffering callback sts4.classpath.ygvKkCqt board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:39.538
+!MESSAGE executing callback sts4.classpath.ygvKkCqt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:36:40.032
+!MESSAGE executing callback sts4.classpath.ygvKkCqt SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-27 13:37:55.627
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:37:55.860
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:02.457
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:02.631
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:03.109
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:03.504
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:05.011
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:07.241
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:14.922
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:17.939
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:17.942
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:17.966
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:17.987
+!MESSAGE buffering callback sts4.classpath.ygvKkCqt board false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:18.006
+!MESSAGE executing callback sts4.classpath.ygvKkCqt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:18.422
+!MESSAGE executing callback sts4.classpath.ygvKkCqt SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-27 13:38:18.650
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:19.029
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:31.580
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:31.883
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:32.433
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:34.881
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:36.479
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:36.605
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:40.278
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:40.283
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:40.304
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:40.321
+!MESSAGE buffering callback sts4.classpath.ygvKkCqt board false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:40.327
+!MESSAGE executing callback sts4.classpath.ygvKkCqt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 13:38:40.370
+!MESSAGE executing callback sts4.classpath.ygvKkCqt SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-27 13:38:40.584
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:38:41.058
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:39:03.776
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:39:04.457
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:39:13.619
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:39:15.248
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:39:15.972
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:10.100
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:10.281
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:21.684
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:21.847
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:30.834
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:31.002
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:43.246
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-27 13:40:43.426
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 17:34:19.798
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ygvKkCqt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 17:34:19.800
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ygvKkCqt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 17:34:19.802
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-27 17:34:19.804
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ygvKkCqt => OK
+!SESSION 2021-07-28 08:19:28.932 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-28 08:19:38.450
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-28 08:19:38.450
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3987a1e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20d65767,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-28 08:19:52.179
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-28 08:19:59.524
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:20:01.295
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:26:29.591
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:26:41.030
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:26:41.813
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:26:42.709
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:26:43.243
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 08:26:44.368
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2905)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1420)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 08:26:44.368
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2905)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1420)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 08:26:45.755
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2905)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1420)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 08:26:45.755
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...</dependency>\n\t\t\n<!--\n\t\t<!-- ... @44:8) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2905)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1420)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+
+!ENTRY Activator 1 0 2021-07-28 08:27:20.037
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:27:24.580
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-28 08:27:37.341
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 08:28:14.301
+!MESSAGE Could not download javadoc for org.apache.tomcat.embed:tomcat-embed-core:9.0.50
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-core:jar:javadoc:9.0.50
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.apache.tomcat.embed:tomcat-embed-core:jar:javadoc:9.0.50
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:14.301
+!MESSAGE Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-core:jar:javadoc:9.0.50
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:14.301
+!MESSAGE Missing org.apache.tomcat.embed:tomcat-embed-core:jar:javadoc:9.0.50
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 08:28:14.897
+!MESSAGE Could not download javadoc for org.apache.tomcat.embed:tomcat-embed-el:9.0.50
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-el:jar:javadoc:9.0.50
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.apache.tomcat.embed:tomcat-embed-el:jar:javadoc:9.0.50
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:14.897
+!MESSAGE Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-el:jar:javadoc:9.0.50
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:14.897
+!MESSAGE Missing org.apache.tomcat.embed:tomcat-embed-el:jar:javadoc:9.0.50
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 08:28:15.498
+!MESSAGE Could not download javadoc for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.50
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:9.0.50
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:9.0.50
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:15.498
+!MESSAGE Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:9.0.50
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 08:28:15.498
+!MESSAGE Missing org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:9.0.50
+
+!ENTRY Activator 1 0 2021-07-28 08:29:16.052
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:29:16.406
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:30:58.114
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:30:58.867
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:30:59.350
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:49.776
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:49.778
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3759ea4d[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:49.783
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:49.832
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.jface 2 0 2021-07-28 08:32:50.056
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-28 08:32:50.056
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17020207,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2321c420,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.869
+!MESSAGE Boot LS startup time from start to initialized: 5076ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.976
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HgsmtUZBisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.980
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.983
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.986
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.988
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:54.991
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HgsmtUZB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:55.011
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:55.028
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:55.030
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 08:32:55.457
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 08:48:54.565
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:55:54.453
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:56:01.113
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:00.974
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:01.631
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:29.513
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:30.183
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:45.689
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 08:57:46.310
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:06:23.648
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:06:23.823
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:06:23.828
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:06:23.863
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:29.422
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:29.452
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:29.473
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:29.488
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:29.505
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 09:08:31.727
+!MESSAGE Could not download sources for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 09:08:31.727
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 09:08:31.727
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+
+!ENTRY Activator 1 0 2021-07-28 09:08:32.243
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:32.290
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:32.505
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:32.566
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:32.597
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:32.799
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:08:34.532
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:34.540
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:34.776
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:34.837
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:34.865
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:35.607
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:08:35.615
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:38.218
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:40.159
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.227
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.264
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.330
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.340
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.422
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.527
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.564
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.614
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.627
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:40.711
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:08:40.796
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:41.023
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 09:08:41.048
+!MESSAGE Could not download javadoc for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 09:08:41.048
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 09:08:41.048
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+
+!ENTRY Activator 1 0 2021-07-28 09:08:43.269
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:43.498
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:43.587
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:43.628
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:43.639
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:08:43.740
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:08:44.144
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:45.538
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:45.760
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:08:46.367
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:34.797
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:34.955
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:35.521
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:36.313
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:36.482
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:36.969
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:39.067
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:41.574
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:42.168
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:42.524
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:43.273
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:43.438
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:46.816
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:11:46.819
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:11:46.843
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:11:46.866
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:11:46.868
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:11:46.919
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:11:47.205
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:11:48.674
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:28.776
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:32.774
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:32.926
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:33.383
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:41.899
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:44.448
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:12:44.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:12:44.475
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:12:44.495
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:12:44.498
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:12:44.539
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:12:44.762
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:12:45.141
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:05.478
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:06.524
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:07.323
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:10.371
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:10.374
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:10.389
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:10.405
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:10.407
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:10.437
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:13:11.695
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:24.751
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:24.909
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:25.636
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:25.729
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:26.103
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:27.720
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:29.875
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:29.992
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:32.483
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:32.485
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:32.505
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:32.525
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:32.528
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:13:32.567
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:13:32.730
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:13:34.265
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:22:44.941
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:22:48.231
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:23:14.243
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:23:50.700
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:03.178
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:12.954
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:23.479
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:32.671
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:34.934
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:24:45.502
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:25:12.058
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:25:12.238
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:25:24.513
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:25:25.123
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:26:19.257
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:26:19.905
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:01.534
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:53.690
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:53.833
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:55.365
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:55.492
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:55.691
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:55.811
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:56.315
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:56.420
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:56.820
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:27:57.116
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:28:00.849
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:28:01.277
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:28:37.070
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:28:37.289
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:28:37.385
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:29:53.969
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-28 09:29:58.983
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-28 09:30:03.340
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:30:48.005
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:30:49.815
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:30:50.749
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:50.752
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:50.772
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:50.791
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:50.793
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:50.839
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:30:51.396
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:30:52.196
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:30:57.089
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:57.091
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:57.108
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:57.126
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:57.128
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:30:57.160
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:30:57.370
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:31:10.525
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:31:12.311
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:31:12.673
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:33:26.404
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:33:27.541
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-07-28 09:33:27.547
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:33:27.566
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:33:27.590
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:33:27.593
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:33:27.663
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:33:28.346
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:33:29.092
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:00.340
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:03.947
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:04.383
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:05.187
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:05.890
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:13.415
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:15.527
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:16.458
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:16.461
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:16.483
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:16.504
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:16.507
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:16.563
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:39:17.128
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:17.716
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:17.903
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:39:20.774
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:20.777
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:20.796
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:20.813
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:20.816
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 09:39:20.856
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 09:39:21.096
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:40:53.620
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:41:01.359
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:41:18.039
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:42:36.016
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:44:20.193
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:44:39.246
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:44:48.402
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:47:05.043
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 09:47:05.702
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:15.614
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:16.156
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:23.342
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:24.061
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:24.644
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:24.819
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:25.010
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:25.237
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:26.061
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:29.308
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:29.484
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:29.667
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:29.862
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:30.356
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:30.540
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:30.891
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:32.608
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:34.341
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:35.174
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:08:35.177
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:08:35.198
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:08:35.221
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:08:35.224
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:08:35.273
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 10:08:37.124
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:08:37.285
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:29:47.984
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:29:48.628
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:29:53.155
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:29:54.201
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:28.895
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:29.893
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:30.806
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:31.460
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:33.275
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:30:34.300
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:35:17.672
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:35:18.352
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:42:40.793
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:42:40.974
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:42:47.204
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:42:47.373
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:00.350
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:00.529
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:20.430
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:21.097
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:55.221
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:43:56.067
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:44:03.693
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:44:04.388
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:45:24.103
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:45:24.805
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:20.946
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:21.625
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:49.609
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:49.753
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:49.872
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:49.990
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:50.104
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:50.348
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:57.781
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:58.454
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:58.563
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:46:59.061
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:03.386
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:03.517
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:03.728
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:03.825
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:05.207
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:05.324
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:13.653
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:14.236
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:32.798
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:32.953
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:33.086
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:59.271
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:47:59.969
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:48:25.928
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:48:26.582
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:10.633
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:11.254
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:15.822
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:16.500
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:20.972
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:51:21.638
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:48.041
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:52.519
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:53.174
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:53.289
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:57.899
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:53:59.811
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:02.318
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:03.668
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:04.440
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:05.425
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:07.345
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:08.706
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:08.709
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:08.730
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:08.748
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:08.750
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:08.814
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 10:54:09.432
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:10.674
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:10.677
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:10.704
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:10.728
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:10.731
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:10.793
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 10:54:11.046
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:11.414
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:19.449
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:21.427
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-07-28 10:54:21.430
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:21.451
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:21.475
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:21.477
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 10:54:21.537
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 10:54:22.341
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:23.215
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:54:23.358
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:57:44.479
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 10:57:44.973
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:01:44.507
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:06:12.905
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:07:51.595
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:12.224
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:14.491
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:08:14.496
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:08:14.521
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:08:14.546
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:08:14.549
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:08:14.610
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:08:15.677
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:16.301
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:16.697
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:27.028
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:08:27.912
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:17.606
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:22.978
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:25.151
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:28.539
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:30.827
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:31.113
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:33.101
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:35.014
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:36.760
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:37.063
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:37.446
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:39.441
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:40.952
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:09:40.956
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:09:40.985
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:09:41.007
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:09:41.011
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:09:41.085
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:09:41.464
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:09:42.888
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:10:39.654
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:10:41.418
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-07-28 11:10:41.421
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:10:41.444
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:10:41.468
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:10:41.471
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:10:41.533
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:10:42.317
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:10:43.204
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:10:43.349
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:12:24.687
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:12:24.689
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:12:24.710
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:12:24.731
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:12:24.733
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:12:24.784
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:12:26.086
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:15:02.022
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:15:02.817
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:37.027
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:16:37.035
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:16:37.099
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:16:37.171
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:16:37.180
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:16:37.385
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:16:37.774
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:38.407
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:45.636
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:45.871
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:56.709
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:16:58.643
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:17:00.843
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:00.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:00.967
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:01.009
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:01.017
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:01.180
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:17:02.319
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:17:03.283
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:17:05.536
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:17:06.540
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:17:52.699
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:52.701
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:52.724
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:52.746
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:52.748
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 11:17:52.798
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 11:17:53.404
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:31.665
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:32.326
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:32.420
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:32.743
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:33.061
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:33.430
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:33.950
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:36.553
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:36.918
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:38.324
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:23:39.153
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:24:37.979
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:24:38.669
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:25:58.181
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:01.102
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:14.499
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:15.224
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:16.387
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:17.073
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:33.562
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:34.350
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:34.469
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:34.574
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:34.744
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:35.406
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:35.822
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:36.865
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:37.721
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:37.918
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:26:38.052
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:27:06.887
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:27:07.047
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:27:07.207
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:27:39.998
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:27:40.665
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:28:20.839
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:28:21.623
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:28:22.186
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:29:22.646
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:29:23.350
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:29:57.512
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:29:58.232
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:30:21.828
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:30:22.539
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:30:28.356
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:30:29.046
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:31:04.535
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:31:05.184
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:33:45.564
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:33:46.274
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:36:55.484
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:36:56.177
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:37:03.879
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:37:04.570
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:37:11.667
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:37:12.321
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:38:06.804
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:38:07.692
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:38:52.428
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:38:52.578
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:38:52.713
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:39:23.626
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:39:24.292
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:39:47.302
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:39:48.009
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:01.783
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:08.005
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:23.083
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:27.751
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:29.384
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:39.647
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:41.317
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:42.689
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:52.497
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:56.243
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:42:58.460
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:46:50.637
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:46:51.337
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:47:25.412
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:47:26.044
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:47:30.728
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:47:31.427
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:50:53.414
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:51:01.298
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:51:03.276
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:51:26.223
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:51:45.355
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:52:22.615
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:52:23.641
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:54:10.522
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 11:54:11.188
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:02:40.513
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:02:41.156
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:02:41.873
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:02:42.306
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:05:58.827
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:05:59.514
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:08:51.794
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:08:52.436
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:08:52.544
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:08:55.739
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:09:05.836
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:09:08.414
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:09:09.562
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:09:09.565
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:09:09.587
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:09:09.611
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:09:09.614
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:09:09.678
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 12:09:10.590
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 12:09:10.824
+!MESSAGE Could not download sources for jstl:jstl:1.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:sources:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing jstl:jstl:jar:sources:1.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 12:09:10.824
+!MESSAGE Could not resolve artifact jstl:jstl:jar:sources:1.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 12:09:10.824
+!MESSAGE Missing jstl:jstl:jar:sources:1.2
+
+!ENTRY Activator 1 0 2021-07-28 12:09:11.061
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:09:11.282
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:09:27.808
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:10:02.087
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:10:03.873
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:10:03.876
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:10:03.973
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:10:03.993
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:10:03.996
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 12:10:04.050
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-28 12:10:04.223
+!MESSAGE Could not download javadoc for jstl:jstl:1.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing jstl:jstl:jar:javadoc:1.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-28 12:10:04.223
+!MESSAGE Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-28 12:10:04.223
+!MESSAGE Missing jstl:jstl:jar:javadoc:1.2
+
+!ENTRY Activator 1 0 2021-07-28 12:10:04.623
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:10:05.091
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:11:46.407
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:12:07.450
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:14:26.387
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:14:43.398
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:14:44.361
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:14:49.322
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:14:50.304
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:15:00.881
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:15:03.046
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:23:46.331
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:24:03.445
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:24:10.789
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:24:11.446
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:26:11.584
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:26:12.277
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:26:42.388
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:26:43.099
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:27:20.153
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:27:20.790
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:28:16.596
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:28:17.266
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:28:20.932
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:28:21.620
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:29:06.622
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:31:27.334
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 12:31:28.019
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:33:34.657
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:33:35.612
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:33:50.707
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:34:04.497
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:04.921
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:05.422
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:05.541
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:05.641
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:06.067
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:06.174
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:06.388
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:06.798
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:08.864
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:09.713
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:10.020
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:10.634
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:16.978
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:17.387
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:26.594
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:26.854
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:27.500
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:27.630
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:27.850
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:30.028
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:30.667
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:30.973
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:36.213
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:38.732
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:40.514
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:39:41.959
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:14.591
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:14.810
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:15.059
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:15.216
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:15.345
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:15.456
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:16.968
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:17.578
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:17.689
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:19.059
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:19.671
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:21.826
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:23.174
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:40:23.178
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:40:23.206
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:40:23.235
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:40:23.238
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:40:23.308
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:40:24.216
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:24.562
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:40:25.383
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:02.837
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:03.507
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:03.628
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:03.829
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:05.856
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:07.986
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:09.158
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:41:09.161
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:41:09.185
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:41:09.209
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:41:09.212
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:41:09.277
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:41:10.322
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:10.665
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:12.281
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:41:13.240
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:19.905
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:20.000
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:20.321
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:21.878
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:22.591
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:22.695
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:23.282
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:23.717
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:25.647
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:26.468
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:26.471
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:26.497
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:26.522
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:26.524
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:26.589
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:42:27.371
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:27.761
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:28.455
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:36.890
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:37.506
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:37.627
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:41.376
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:43.312
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:43.551
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:46.010
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:46.749
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:46.752
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:46.770
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:46.789
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:46.791
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:42:46.847
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:42:47.898
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:48.064
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:42:48.624
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:13.210
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:14.691
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:15.247
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:19.178
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:19.349
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:19.952
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:20.195
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:21.120
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:21.367
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:21.838
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:22.151
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:22.889
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:23.269
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:23.845
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:24.634
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:27.039
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:27.623
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:27.726
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:29.442
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:29.564
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:31.350
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:32.041
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:32.844
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:36.819
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:38.672
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:43.440
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:46.454
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:48.460
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:50.101
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:50.959
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:55.613
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:56.845
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:57.505
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:57.596
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:58.295
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:44:58.475
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:00.631
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:01.375
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:45:01.377
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:45:01.399
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:45:01.418
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:45:01.420
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:45:01.471
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:45:01.718
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:02.736
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:02.869
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:03.696
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:03.803
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:06.353
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:08.098
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:08.925
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:34.929
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:35.254
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:35.745
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:39.022
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:39.244
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:39.916
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:40.011
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:40.178
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:40.594
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:40.848
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:41.725
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:42.099
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:43.577
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:43.863
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:44.428
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:44.851
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:45:50.852
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:01.534
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:02.044
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:02.790
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:04.958
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:05.611
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:06.196
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:08.760
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:09.455
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:46:09.458
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:46:09.480
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:46:09.504
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:46:09.506
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:46:09.572
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:46:09.822
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:11.411
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:49.320
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:50.147
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:50.591
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:51.140
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:53.688
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:54.085
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:55.647
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:46:56.298
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:01.312
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:01.788
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:03.948
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:04.718
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:04.720
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:04.744
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:04.764
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:04.766
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:04.835
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:47:05.075
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:06.054
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:06.688
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:29.864
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:30.032
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:30.317
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:32.012
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:32.622
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:32.731
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:33.577
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:33.689
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:35.701
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:36.550
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:36.553
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:36.575
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:36.596
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:36.598
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:47:36.653
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:47:37.591
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:37.857
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:38.575
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:48.301
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:48.930
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:49.022
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:49.284
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:47:51.696
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:00.876
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:01.105
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:01.309
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:01.629
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:01.881
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:03.616
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:04.225
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:04.321
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:04.950
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:05.575
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:07.374
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:08.229
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:08.231
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:08.254
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:08.282
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:08.284
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:08.357
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:48:09.161
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:09.542
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:10.245
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:49.181
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:51.041
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:51.867
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:51.870
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:51.893
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:51.916
+!MESSAGE buffering callback sts4.classpath.HgsmtUZB board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:51.920
+!MESSAGE executing callback sts4.classpath.HgsmtUZB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 13:48:51.993
+!MESSAGE executing callback sts4.classpath.HgsmtUZB SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-28 13:48:52.250
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:53.864
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:54.920
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:57.489
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 13:48:58.091
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 16:01:40.564
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-28 16:01:41.239
+!MESSAGE Has main method computation for project 'board'
+!SESSION 2021-07-29 11:18:16.296 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-29 11:49:54.003
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-29 11:49:54.003
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e1ad658,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@486dd616,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY Activator 1 0 2021-07-29 11:50:09.084
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-29 11:50:09.132
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:45.636
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:45.638
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2a97b4b8[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:45.645
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:45.679
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.793
+!MESSAGE Boot LS startup time from start to initialized: 6138ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.910
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gunjjVJtisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.914
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.918
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.920
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.923
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.925
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gunjjVJt => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.950
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.969
+!MESSAGE buffering callback sts4.classpath.gunjjVJt board false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:51.971
+!MESSAGE executing callback sts4.classpath.gunjjVJt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 13:48:53.067
+!MESSAGE executing callback sts4.classpath.gunjjVJt SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-07-29 16:02:11.681
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-29 16:02:11.681
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c169125,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1993bb01,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-07-29 16:10:56.122
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:10:58.334
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:11:16.112
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:11:24.348
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:11:58.082
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:13:00.028
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:13:02.287
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:13:14.302
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:13:46.777
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:13:51.601
+!MESSAGE Has main method computation for project 'board'
+
+!ENTRY Activator 1 0 2021-07-29 16:14:28.907
+!MESSAGE Has main method computation for project 'board'
+!SESSION 2021-07-30 08:25:33.804 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-07-30 08:25:55.568
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 4 567 2021-07-30 08:25:55.881
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2021-07-30 08:25:55.881
+!MESSAGE Could not read metadata for '.org.eclipse.egit.core.cmp'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/.org.eclipse.egit.core.cmp)[567]: java.lang.Exception: The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1012)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:366)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:401)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2021-07-30 08:25:55.881
+!MESSAGE The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1012)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:366)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:401)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.jface 2 0 2021-07-30 08:26:04.046
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-30 08:26:04.046
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2560a7be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@fabfc79,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-30 08:26:22.643
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\3kist_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-30 08:27:01.443
+!MESSAGE The POM for org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.2.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-30 08:28:14.745
+!MESSAGE Could not download sources for jstl:jstl:1.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:sources:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing jstl:jstl:jar:sources:1.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:14.746
+!MESSAGE Could not resolve artifact jstl:jstl:jar:sources:1.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:14.746
+!MESSAGE Missing jstl:jstl:jar:sources:1.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-30 08:28:15.357
+!MESSAGE Could not download sources for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:15.357
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:15.358
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-30 08:28:17.137
+!MESSAGE Could not download javadoc for jstl:jstl:1.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing jstl:jstl:jar:javadoc:1.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:17.137
+!MESSAGE Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:17.137
+!MESSAGE Missing jstl:jstl:jar:javadoc:1.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-07-30 08:28:17.763
+!MESSAGE Could not download javadoc for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:17.764
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-07-30 08:28:17.764
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.0
+
+!ENTRY org.eclipse.jface 2 0 2021-07-30 09:08:11.630
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-30 09:08:11.630
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ba1bed1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b620300,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2021-07-30 09:08:30.145
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

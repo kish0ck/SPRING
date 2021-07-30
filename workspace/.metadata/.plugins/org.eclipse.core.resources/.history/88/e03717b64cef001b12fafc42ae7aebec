@@ -1,0 +1,44 @@
+package com.example.board.service;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import org.springframework.stereotype.Service;
+
+import com.example.board.domain.BoardVO;
+import com.example.board.mapper.BoardMapper;
+
+@Service("com.example.board.service.BoardService")
+public class BoardService {
+ 
+    @Resource(name="com.example.board.mapper.BoardMapper")
+    BoardMapper mBoardMapper;
+    
+    public List<BoardVO> boardListService() throws Exception{
+        
+        return mBoardMapper.boardList();
+    }
+    
+    public BoardVO boardDetailService(int bno) throws Exception{
+        
+        return mBoardMapper.boardDetail(bno);
+    }
+    
+    public void boardInsertService(BoardVO board) throws Exception{
+        
+        mBoardMapper.boardInsert(board);
+    }
+    
+    public void boardUpdateService(BoardVO board) throws Exception{
+        System.out.println("boardUpdateService");
+        mBoardMapper.boardUpdate(board);
+    }
+    
+    public void boardDeleteService(int bno) throws Exception{
+        System.out.println("boardDeleteService");
+        mBoardMapper.boardDelete(bno);
+    }
+}
+
+

@@ -1,0 +1,36 @@
+package com.example.board.service;
+
+@Service("com.example.board.service.BoardService")
+public class BoardService {
+ 
+    @Resource(name="com.example.board.mapper.BoardMapper")
+    BoardMapper mBoardMapper;
+    
+    public List<BoardVO> boardListService() throws Exception{
+        
+        return mBoardMapper.boardList();
+    }
+    
+    public BoardVO boardDetailService(int bno) throws Exception{
+        
+        return mBoardMapper.boardDetail(bno);
+    }
+    
+    public int boardInsertService(BoardVO board) throws Exception{
+        
+        return mBoardMapper.boardInsert(board);
+    }
+    
+    public int boardUpdateService(BoardVO board) throws Exception{
+        
+        return mBoardMapper.boardUpdate(board);
+    }
+    
+    public int boardDeleteService(int bno) throws Exception{
+        
+        return mBoardMapper.boardDelete(bno);
+    }
+}
+
+
+출처: https://private.tistory.com/54?category=753861 [공부해서 남 주자]

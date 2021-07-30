@@ -1,0 +1,27 @@
+package com.example.board;
+
+import javax.annotation.Resource;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.example.board.mapper.BoardMapper;
+
+
+// https://private.tistory.com/51?category=753861
+// https://private.tistory.com/52?category=753861
+
+
+@Controller
+public class JspTest {
+
+		@Resource(name="com.example.board.mapper.BoardMapper")
+		BoardMapper mBoardMapper;
+	
+		@RequestMapping("/test")
+		private String jspTest() {
+			System.out.println(mBoardMapper.boardCount());
+			return "test";
+		}
+
+}

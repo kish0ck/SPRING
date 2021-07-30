@@ -1,0 +1,19 @@
+package com.example.board.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+
+// https://private.tistory.com/51?category=753861
+// https://private.tistory.com/52?category=753861
+
+
+@Controller
+public class JspTest {
+
+		@RequestMapping("/test")
+		private String jspTest() {
+			return "test";
+		}
+
+}

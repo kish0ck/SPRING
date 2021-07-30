@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper 
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+ 
+<mapper namespace="com.example.board.mapper.BoardMapper">
+ 
+     <select id="boardCount" resultType="int">
+        SELECT
+            COUNT(*)
+        FROM BOARD_TEST
+    </select>
+    
+    <select id="boardList" resultType="com.example.board.domain.BoardVO">
+        SELECT
+            *
+        FROM BOARD_TEST
+    </select>
+    
+    <select id="boardDetail" parameterType="int" resultType="com.example.board.domain.BoardVO">
+        SELECT
+            *
+        FROM BOARD_TEST
+        WHERE
+            BNO = #{bno}
+    </select>
+    
+    <insert id="boardInsert" parameterType="com.example.board.domain.BoardVO">
+        INSERT INTO
+        BOARD_TEST (BNO, SUBJECT,CONTENT,WRITER,REG_DATE)
+        VALUES(#{bno},#{subject},#{content},#{writer},SYSDATE ) 
+    </insert>
+    
+    <update id="boardUpdate" parameterType="com.example.board.domain.BoardVO">
+        UPDATE BOARD_TEST
+            SET
+        <if test="subject != null">
+            SUBJECT = #{subject}
+        </if>
+        <if test="subject != null and content != null"> , </if>
+        <if test="content != null">
+            CONTENT = #{content}
+        </if>
+        WHERE BNO = #{bno}
+    </update>
+    
+    <delete id="boardDelete" parameterType="int">
+        DELETE FROM BOARD_TEST WHERE BNO = #{bno}
+    </delete>
+
+</mapper>
+
